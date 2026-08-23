@@ -23,6 +23,6 @@
 
 ## Disclosure
 
-Coordinated disclosure — 90-day default window, extensions negotiated in good faith. We do not publish details before vendor coordination.
+Coordinated disclosure 90-day default window, extensions negotiated in good faith. We do not publish details before vendor coordination.
 
 **Security reports:** [ihopenre@gmail.com](mailto:ihopenre@gmail.com) include reproduction steps and affected versions.
